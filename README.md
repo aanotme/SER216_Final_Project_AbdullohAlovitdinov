@@ -38,3 +38,20 @@ Priority  | Highest
 Possible root cause  | Problems in data-base
 Regression test  | Find this specific permit in data-base; check whether the expiration
 date matches.
+# SER216_Final_Project_AbdullohAlovitdinov
+
+SER216_Final_Project_StudentName/
+│
+├── README.md
+├── final_report.pdf
+├── diagrams/
+│   └── workflow_diagram.png
+├── tables/
+│   └── test_cases.xlsx
+├── screenshots/
+│   ├── repo_homepage.png
+│   ├── commits.png
+│   ├── branch.png
+│   └── pull_request.png
+└── notes/
+    └── tools_used.md
